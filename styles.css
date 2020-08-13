@@ -18,7 +18,7 @@ html, body {
 
 .header {
     box-shadow: 0 7px 8px 0 rgba(0,0,0,0.2), 0 10px 10px 0 rgba(0,0,0,0.3);
-    height: 750px;
+    height: 705px;
     box-sizing: border-box;
     flex-direction: row;
     flex-wrap: wrap;
@@ -50,8 +50,8 @@ html, body {
     min-height: 100%;
 }
 .about h1 {
-    text-align: center;
     font-size: 50px;
+    text-align: center;
 }
 .about {
     box-shadow: 0 7px 8px 0 rgba(0,0,0,0.2), 0 10px 10px 0 rgba(0,0,0,0.3);
@@ -71,8 +71,8 @@ html, body {
     font-size: 30px;
 }
 .about3 {
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
     display: flex;
     flex-direction: row;
 
@@ -80,14 +80,14 @@ html, body {
 .about4 {
     line-height: 30px;
     font-size: 20px;
-    margin-right: 20px;
+    margin-right: 80px;
     padding-bottom: 50px;
     flex: 1;
 }
 .about5 {
     line-height: 30px;
     font-size: 20px;
-    margin-left: 40px;
+    margin-left: 80px;
     margin-bottom: 50px;
     flex: 1;
 }
