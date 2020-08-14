@@ -91,6 +91,23 @@ html, body {
     margin-bottom: 50px;
     flex: 1;
 }
+.portfolio {
+    background: pink;
+    box-shadow: 0 7px 8px 0 rgba(0,0,0,0.2), 0 10px 10px 0 rgba(0,0,0,0.3);
+
+}
+.projects {
+    display: flex;
+    justify-content: center;
+    padding: 20px 20px 40px 20px;
+}
+.projects .img-wrap a {
+    margin: 0 60px;
+}
+.projects img {
+    height: 400px;
+    width: 400px;
+}
 
 .footer {
     height: 400px;
