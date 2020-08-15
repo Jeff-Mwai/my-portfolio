@@ -128,6 +128,12 @@ html, body {
     height: 400px;
     width: 400px;
 }
+.projects .img-wrap :hover {
+    width: 410px;
+    height: 410px;
+    position: relative;
+    transition: all .6s;
+}
 .skills {
      box-shadow: 0 7px 8px 0 rgba(0,0,0,0.2), 0 10px 10px 0 rgba(0,0,0,0.3);
      margin-bottom: 5px;
@@ -151,4 +157,5 @@ html, body {
 .footer {
     height: 400px;
     background: rgb(57,55,58);
+    color: white;
 }
