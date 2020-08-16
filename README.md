@@ -14,6 +14,5 @@ This app used two languages which are HTML and CSS.
 ## Support and contact details
 In case of any issues or questions, you can reach me through my contact No. 0725107112, or email: jeffmwai3@gmail.com.
 ### License
-MIT.
-Copyright (c) 2020 Jeffrey Mwai
+MIT (c) 2020 **Jeffrey Mwai**
   
