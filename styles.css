@@ -60,7 +60,7 @@ html, body {
     box-shadow: 0 7px 8px 0 rgba(0,0,0,0.2), 0 10px 10px 0 rgba(0,0,0,0.3);
     background: rgb(104, 47, 71);
     color: white;
-    height: 500px;
+    height: auto;
     flex: 1;
     margin-top: -32px;
 
@@ -105,7 +105,7 @@ html, body {
 .content-wrap {
     bottom: 100px;
     left: 30px;
-    margin-left: 70px;
+    margin-left: 100px;
 }
 .portfolio .projects .content-wrap a {
     text-decoration: none;
@@ -131,13 +131,13 @@ html, body {
     margin-right: 80px;
 }
 .projects .img-wrap a {
-    margin: 0 60px;
+    margin: 0 100px;
 }
 .projects img {
     height: 400px;
     width: 400px;
 }
-.projects .img-wrap :hover {
+.projects .img-wrap img:hover {
     width: 410px;
     height: 410px;
     position: relative;
