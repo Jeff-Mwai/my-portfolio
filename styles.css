@@ -19,7 +19,7 @@ html, body {
 .navbar a:hover {
     background-color: white;
     color: darkblue;
-    font-size: 26px;
+    font-size: 2px;
     transition: all .4s;
 }
 
@@ -98,17 +98,14 @@ html, body {
     background: rgb(224, 204, 207);
     box-shadow: 0 7px 8px 0 rgba(0,0,0,0.2), 0 10px 10px 0 rgba(0,0,0,0.3);
     margin-top: -20px;
+    height: 1000px;
 
 }
 
 .content-wrap {
     bottom: 100px;
     left: 30px;
-    font-size: 30px;
-    font-family: fantasy;
-    margin-left: 30px;
-    font-weight: bolder;
-    text-align: center;
+    margin-left: 70px;
 }
 .portfolio .projects .content-wrap a {
     text-decoration: none;
@@ -126,6 +123,12 @@ html, body {
     display: flex;
     justify-content: center;
     padding: 20px 20px 40px 20px;
+
+}
+.img-wrap {
+     width: 410px;
+    height: 410px;
+    margin-right: 80px;
 }
 .projects .img-wrap a {
     margin: 0 60px;
