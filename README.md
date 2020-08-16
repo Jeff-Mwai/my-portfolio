@@ -1,21 +1,18 @@
-# my-portfolio
-#### {This website describe me, a list of projects that I have done in the past, my skills and contact details}, {August 2020}
-#### By **{Jeffrey Mwai}**
+# {My Portfolio}
+#### {Web Application about Jeffrey}, {August 2020}
+#### By **{List of contributors}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This websites provides information about Jeffrey who is a web developer. It has an about section that details my background, such as where I come from and the different levels of education. The about section also explains the reasons I decided to study software programming and my hobies and interests. The next part of the website is about the projects that I have managed to deploy so far. There are two websites namely; Swang' Tours and Travels, and JantaPro. After the projects section, there is a list of the skills which I have, and they include HTML, CSS and Javascript. Lastly, the websites has a contact section, which provides the various platforms that potential clients can reach me.}
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Run the link online
+* All the sections are on the one-page website
+* One can go to the different sections using the navigation bar
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{The website does not have any bugs.}
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{This app used two languages which are HTML and CSS.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{in case of any issues or questions, you can reach me through my contact No. 0725107112, or email: jeffmwai3@gmail.com.}
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
